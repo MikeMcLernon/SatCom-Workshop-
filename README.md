@@ -14,8 +14,7 @@ The files enable the following exercises:
 
 All the exercises include visualizations.
 
-<!--- If your project includes a visualation or any images or an App please include a screenshot in this README
-      (MM) Will add a link to the image in the GitHub repo --->
+<!--- If your project includes a visualation or any images or an App please include a screenshot in this README --->
 
 ## Setup 
 To Run:
