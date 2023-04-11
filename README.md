@@ -1,7 +1,7 @@
 # Full Repository Name 
-EXPO-2023-SatCom_Workshop 
+SatCom-Workshop 
 
-This repo contains the files required to run the 2023 MATLAB&reg; EXPO hands-on  
+This repo contains the files required to run the hands-on, MATLAB-based  
 SatCom workshop.  The "Work Scripts" files require code additions in order to  
 run.  The "Solution Scripts" files have the required code additions, and run  
 to completion.
@@ -9,8 +9,8 @@ to completion.
 The files enable the following exercises:  
 1.  Exercise 1 - Launch a satellite scenario viewer.  
 2.  Exercise 2 - Perform a satellite-to-ground station visibility analysis.  
-3.  Extra credit - Perform a satellite-to-ground station communications  
-    link closure analysis.
+3.  Exercise 3 - Perform a satellite-to-ground station communications link closure analysis.
+4.  Exercise 4 - Visualize the antenna patterns from Exercise 3.    
 
 All the exercises include visualizations.
 
@@ -19,11 +19,11 @@ All the exercises include visualizations.
 ## Setup 
 To Run:
 1. To conduct the workshop, use the "Work Scripts" files.
-2. To simply run the completed exercises, run the following files in 
-   MATLAB:
+2. To simply run the completed exercises, run the following files in MATLAB:
 - Solution_Exercise1_CreateAndViewSatelliteScenario.mlx
 - Solution_Exercise2_AccessAnalysis.mlx
-- Solution_ExtraCredit_LinkAnalysis.mlx
+- Solution_Exercise3_LinkAnalysis.mlx
+- Solution_Exercise4_PatternVisualization.mlx
 
 
 ### MathWorks Products (https://www.mathworks.com)
@@ -45,9 +45,9 @@ similar workflows as those in the workshop, see:
 2.  https://in.mathworks.com/help/satcom/ug/multihop-satellite-communication.html
 
 ## License
-The license for EXPO-2023-SatCom_Workshop is available in the LICENSE.TXT file in this GitHub repository.
+The license for SatCom-Workshop is available in the LICENSE.TXT file in this GitHub repository.
 
 ## Community Support
 [MATLAB Central](https://www.mathworks.com/matlabcentral)
 
-Copyright 2022 The MathWorks, Inc.
+Copyright 2023 The MathWorks, Inc.
